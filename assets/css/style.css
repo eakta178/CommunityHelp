@@ -1,0 +1,125 @@
+
+  .navbar {
+	 background-color: #D9B310;
+	 padding: 5px;
+	 border: 2px;
+   color: white;
+}
+
+  .jumbotron {
+     background-color: #328cc1;
+}
+
+  a {
+      color: #F4F4F4;
+     }
+   
+
+   img {
+    width: 300px;
+    height: 300px;
+    margin-left: 70px;
+    margin-bottom: 15px;
+    padding: 10px;
+    background-color: #0B3C5D;
+
+   }
+
+  .container {
+    background-color: #0B3C5D;
+   
+
+   }
+
+  .container1 {
+     background-color: #D9B310;
+     padding-top: 20px;
+    
+
+   }
+
+   #container {
+   	padding: 5px;
+   	background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+   }
+
+  .pare {
+    color: black;
+    padding: 5px;
+
+  }
+
+   .panel-title1 {
+     color: #1D2731;
+  }
+
+   .panel-title2 {
+     color: #1D2731;
+
+    }
+
+    .panel-body {
+    	background-color: #328cc1;
+      padding: 10px;
+
+    }
+
+
+    .panel-body1 {
+    background-color: #328cc1;
+    padding: 25px;
+
+    }
+  
+  .panel-title3 {
+    color: #1D2731;
+    padding: 5px;
+    background-color: #D9B310;
+    margin-bottom: 0px;
+   
+
+   }
+
+   .nav-tabs {
+    margin-bottom: 15px;
+}
+.sign-with {
+    margin-top: 25px;
+    padding: 20px;
+}
+div#OR {
+    height: 30px;
+    width: 30px;
+    border: 1px solid #C2C2C2;
+    border-radius: 50%;
+    font-weight: bold;
+    line-height: 28px;
+    text-align: center;
+    font-size: 12px;
+    float: right;
+    position: absolute;
+    right: -16px;
+    top: 40%;
+    z-index: 1;
+    background: #DFDFDF;
+}
+
+
+  
+
+
+
+
+ 
+
+
+ 
+  
+
+
+
+
+        

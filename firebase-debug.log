@@ -1,0 +1,32 @@
+[debug] [2017-12-22T02:16:23.850Z] ----------------------------------------------------------------------
+[debug] [2017-12-22T02:16:23.852Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ayaan\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-12-22T02:16:23.852Z] CLI Version:   3.16.0
+[debug] [2017-12-22T02:16:23.852Z] Platform:      win32
+[debug] [2017-12-22T02:16:23.852Z] Node Version:  v8.9.3
+[debug] [2017-12-22T02:16:23.852Z] Time:          Thu Dec 21 2017 18:16:23 GMT-0800 (Pacific Standard Time)
+[debug] [2017-12-22T02:16:23.852Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-12-22T02:16:23.861Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-12-22T02:16:23.861Z] > authorizing via signed-in user
+[debug] [2017-12-22T02:16:23.863Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/project1-22a93  
+  
+ Thu Dec 21 2017 18:16:23 GMT-0800 (Pacific Standard Time)
+[debug] [2017-12-22T02:16:24.467Z] <<< HTTP RESPONSE 200
+[debug] [2017-12-22T02:16:24.470Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/project1-22a93/tokens  
+  
+ Thu Dec 21 2017 18:16:24 GMT-0800 (Pacific Standard Time)
+[debug] [2017-12-22T02:16:25.047Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\ayaan\Documents\Eakta\BootCampWorkspace\project-1'...
+[info] 
+[debug] [2017-12-22T02:16:25.092Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/project1-22a93  
+  
+ Thu Dec 21 2017 18:16:25 GMT-0800 (Pacific Standard Time)
+[debug] [2017-12-22T02:16:25.527Z] <<< HTTP RESPONSE 200
+[debug] [2017-12-22T02:16:25.532Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/789161509104/clients/_:getWebAppConfig  
+  
+ Thu Dec 21 2017 18:16:25 GMT-0800 (Pacific Standard Time)
+[debug] [2017-12-22T02:16:27.093Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: assets
+[info] +  hosting: Local server: http://localhost:5000
+
